@@ -37,7 +37,9 @@ The Implemented Code for this part is in [Lab07 Code](./Lab07/banking.c). <br />
 The Report for this Part is provided in the [Lab07 Report PDF](./Lab07/OSLAB_Group04_Exercise07.pdf).
 
 ## Built With
-- [CUDA](https://developer.nvidia.com/cuda-zone) - NVIDIA's parallel computing platform and API model.
+- [Ubuntu](https://ubuntu.com) - Operating system used for development.
+- [pthread](https://man7.org/linux/man-pages/man7/pthreads.7.html) - POSIX threads library.
+- [semaphore](https://man7.org/linux/man-pages/man7/sem_overview.7.html) - Semaphore library for synchronization.
 
 ## Contributors
 - [Omid Ghane](https://github.com/omidghane)
