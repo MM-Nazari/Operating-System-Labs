@@ -4,6 +4,7 @@
 
 ## Table of Contents
 - [Project Description](#project-description)
+- [Contributors](#contributors)
 
 ## Project Description
 For a detailed Labs description, please refer to the [Labs Description PDF](./OS_LAB_InstructionManual_1398_v02.pdf).
@@ -37,3 +38,6 @@ The Report for this Part is provided in the [Lab07 Report PDF](./Lab07/OSLAB_Gro
 
 ## Built With
 - [CUDA](https://developer.nvidia.com/cuda-zone) - NVIDIA's parallel computing platform and API model.
+
+## Contributors
+- [Omid Ghane](https://github.com/omidghane)
