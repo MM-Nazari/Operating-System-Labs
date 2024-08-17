@@ -1,6 +1,4 @@
-#Operating-System-Labs
-
-# Multicore-Programming-Labs
+# Operating-System-Labs
 
 ## Table of Contents
 - [Project Description](#project-description)
